@@ -1,0 +1,43 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=prmovies.green&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/IndusAryan/Aryans-Cloudstream-Extensions",
+        "fileSize": 13936,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "AryanInvader"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "PrMoviesProvider",
+        "description": "Contains Bharatiya Movies & Webseries from Indian Film Industry and Dubbed Hollywood content, Max Resolution is 720p",
+        "url": "https://raw.githubusercontent.com/IndusAryan/Aryans-Cloudstream-Extensions/builds/PrMoviesProvider.cs3",
+        "name": "PrMoviesProvider"
+    },
+    {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvaBBstvo8iS1OljAvUj74hHr8vC73g2BzKAti6kApj9RKJFXX3hQKzprxTtQaIw3gtPA&usqp=CAU",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/IndusAryan/Aryans-Cloudstream-Extensions",
+        "fileSize": 19696,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated, AryanInvader"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "YugenAnime",
+        "description": "Watch Subbed & Dubbed Anime and Anime Movies",
+        "url": "https://raw.githubusercontent.com/IndusAryan/Aryans-Cloudstream-Extensions/builds/YugenAnime.cs3",
+        "name": "YugenAnime"
+    }
+]
